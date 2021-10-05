@@ -16,7 +16,9 @@ At a personal level, this repo intends to spread awareness about AI initiatives 
 # Official Big Companies' websites
 - **Microsoft**: [AI principles](https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1%3aprimaryr6), [Responsible AI tools](https://www.microsoft.com/en-us/ai/responsible-ai-resources);
 - **Google**: [Responsible AI goals](https://ai.google/responsibilities/), [AI principles](https://ai.google/principles/), [AI in practice](https://ai.google/responsibilities/responsible-ai-practices/);
+- **Amazon**: articles on [FAT, ethics](https://www.amazon.science/tag/fairness-accountability-transparency-ethics-fate), [Security, Privacy, Abuse prevention](https://www.amazon.science/research-areas/security-privacy-and-abuse-prevention);
+- **Dataiku**: [Establishing responsible AI](https://www.dataiku.com/stories/establishing-responsible-ai-for-a-sustainable-data-future/)
 
 # :date: Conferences / Events
-## Fairness, Accountability, and Transparency
+## Fairness, Accountability, and Transparency (FAT)
 [ACM FAccT Conference 2022](https://facctconference.org/) -  June 21-24, 2022 in Seoul, South Korea
